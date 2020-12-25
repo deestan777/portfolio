@@ -56,6 +56,14 @@
         HR agancy website
       </td>
     </tr>
+        <tr>
+      <td>
+        <a href="https://homedeluxe.com.ua/">HOME DELUXE</a>
+      </td>
+      <td>
+        Все для дома 
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="http://diana.kosa4evka.org/">Canvas sketch</a>
