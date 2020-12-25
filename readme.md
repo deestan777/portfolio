@@ -125,9 +125,6 @@
         <a href="https://github.com/vuetifyjs/preset">@vuetify/preset</a>
       </td>
       <td>
-        n/a
-      </td>
-      <td>
        A Vue CLI preset for Vuetify
       </td>
     </tr>
