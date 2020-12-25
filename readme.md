@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td>
-        <a href=""http://citystaff.com.ua/">CityStaff</a>
+        <a href="http://citystaff.com.ua/">CityStaff</a>
       </td>
       <td>
         HR agancy website
