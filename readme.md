@@ -10,138 +10,58 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugins/tree/master/packages/cli-plugin-utils">@vuetify/cli-plugin-utils</a>
+        <a href="http://deestan.kosa4evka.org/works/marketplus/">Marketplus</a>
       </td>
       <td>
-        A collection of helper utilities for creating Vue CLI plugins
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/eslint-config-vuetify">eslint-config-vuetify</a>
-      </td>
-      <td>
-       An opinionated eslint-config for Vuetify
+        Trading website
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/vuetifyjs/eslint-plugin-vuetify">eslint-plugin-vuetify</a>
+        <a href="http://deestan.kosa4evka.org/works/broker-unity/">Broker-unity</a>
       </td>
       <td>
-       An opinionated eslint-plugin for Vuetify
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugins/tree/master/packages/vue-cli-plugin-vuetify">vue-cli-plugin-vuetify</a>
-      </td>
-      <td>
-        A Vue CLI plugin for installing and configuring Vuetify
+       Trading website
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugins/tree/master/packages/vue-cli-plugin-vuetify-cli">vue-cli-plugin-vuetify-cli</a>
+        <a href="http://deestan.kosa4evka.org/works/traders-chain/">traders-chain</a>
       </td>
       <td>
-        A Vue CLI plugin for scaffolding Vue applications
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugins/tree/master/packages/vue-cli-plugin-vuetify-essentials">vue-cli-plugin-vuetify-essentials</a>
-      </td>
-      <td>
-        A supplementary Vue CLI plugin used by <a href="https:/github.com/vuetifyjs/preset">@vuetify/preset</a>
+       Trading website
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify/tree/master/packages/vue-cli-plugin-vuetify-preset-basil">vue-cli-plugin-vuetify-preset-basil</a>
+        <a href="https://auto-luxury.com/">Auto Luxury</a>
       </td>
       <td>
-        A Vuetify Preset for the <a href="https://material.io/design/material-studies/basil.html">Basil Material Study</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify/tree/master/packages/vue-cli-plugin-vuetify-preset-crane">vue-cli-plugin-vuetify-preset-crane</a>
-      </td>
-      <td>
-        A Vuetify Preset for the <a href="https://material.io/design/material-studies/crane.html">Crane Material Study</a>
+        Luxury car's rent 
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify/tree/master/packages/vue-cli-plugin-vuetify-preset-fortnightly">vue-cli-plugin-vuetify-preset-fortnightly</a>
+        <a href="https://shokal.kiev.ua/">Shokal</a>
       </td>
       <td>
-        A Vuetify Preset for the <a href="https://material.io/design/material-studies/fortnightly.html">Fortnightly Material Study</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify/tree/master/packages/vue-cli-plugin-vuetify-preset-owl">vue-cli-plugin-vuetify-preset-owl</a>
-      </td>
-      <td>
-        A Vuetify Preset for the <a href="https://material.io/design/material-studies/owl.html">Owl Material Study</a>
+        Real estate broker website
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify/tree/master/packages/vue-cli-plugin-vuetify-preset-rally">vue-cli-plugin-vuetify-preset-rally</a>
+        <a href=""http://citystaff.com.ua/">CityStaff</a>
       </td>
       <td>
-        A Vuetify Preset for the <a href="https://material.io/design/material-studies/rally.html">Rally Material Study</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify/tree/master/packages/vue-cli-plugin-vuetify-preset-reply">vue-cli-plugin-vuetify-preset-reply</a>
-      </td>
-      <td>
-        A Vuetify Preset for the <a href="https://material.io/design/material-studies/reply.html">Reply Material Study</a>
+        HR agancy website
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugin-vuetify/tree/master/packages/vue-cli-plugin-vuetify-preset-shrine">vue-cli-plugin-vuetify-preset-shrine</a>
+        <a href="http://diana.kosa4evka.org/">Canvas sketch</a>
       </td>
       <td>
-        A Vuetify Preset for the <a href="https://material.io/design/material-studies/shrine.html">Shrine Material Study</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vue-cli-plugins/tree/master/packages/vue-cli-plugin-vuetify-storybook">vue-cli-plugin-vuetify-storybook</a>
-      </td>
-      <td>
-        A Vue CLI plugin for using Storybook w/ Vuetify
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/preset">@vuetify/preset</a>
-      </td>
-      <td>
-       A Vue CLI preset for Vuetify
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vuetify-loader">vuetify-loader</a>
-      </td>
-      <td>
-       A webpack plugin for treeshaking and progressive image support
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vuetifyjs/vuex/tree/master/packages/cognito-module/">vuex-cognito-module</a>
-      </td>
-      <td>
-       A <a href="https://vuex.vuejs.org/">Vuex</a> module for <a href="https://aws.amazon.com/cognito/">AWS Cognito</a>
+                                             This website will be my portfolio soon
       </td>
     </tr>
   </tbody>
