@@ -1,4 +1,4 @@
-           [simple](http://diana.kosa4evka.org/)
+           [simple](http://diana.kosa4evka.org)
            [citystaff](http://citystaff.com.ua/)
             <a href="https://www.a-136.kyiv.ua/">Real estate</a>
             <a href="https://shokal.kiev.ua/">Real estate 2</a>
