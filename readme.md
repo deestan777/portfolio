@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="http://deestan.kosa4evka.org/works/marketplus/">Marketplus</a>
+        <a href="https://deestan777.github.io/marketplus/">Marketplus</a>
       </td>
       <td>
         Trading website
@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td>
-        <a href="http://deestan.kosa4evka.org/works/broker-unity/">Broker-unity</a>
+        <a href="https://deestan777.github.io/broker-unity/">Broker-unity</a>
       </td>
       <td>
        Trading website
@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td>
-        <a href="http://deestan.kosa4evka.org/works/traders-chain/">traders-chain</a>
+        <a href="https://deestan777.github.io/traders-chain/">traders-chain</a>
       </td>
       <td>
        Trading website
