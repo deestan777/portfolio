@@ -10,7 +10,7 @@
   <tbody>
       <tr>
         <td>
-        <a href="https://github.com/deestan777/vue-tinder-card/">code vue-tinder-card</a><a href="https://deestan.kosa4evka.org">demo vue-tinder-card</a>
+        <a href="https://github.com/deestan777/vue-tinder-card/">code vue-tinder-card </a> <a href="https://deestan.kosa4evka.org"> demo vue-tinder-card</a>
         </td>
         <td>
         Trading website
